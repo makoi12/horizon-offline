@@ -1,4 +1,8 @@
-# Horizon Rust Edition - Offline Crack
+<div align="center">
+  <img src="1000056144.png" alt="Horizon Rust Edition Crack" width="600">
+  <h1>🏴‍☠️ Horizon Rust Edition - Offline Crack 🏴‍☠️</h1>
+  <p><b>"الكراك الوحيد اللي يشغل ماين كرافت 26.3 على كرت شاشة HD 3000 بدون حساب مايكروسوفت."</b></p>
+</div>
 
 هذا المشروع هو نسخة مبنية من محرك **Horizon** (ماين كرافت بلغة Rust). 
 الهدف: تشغيل اللعبة **بدون حساب مايكروسوفت** وبدون اللانشر الرسمي.
@@ -123,4 +127,4 @@ subprocess.run(cmd, cwd=GAME_HOME, env=env)
   كرت الشاشة لا يدعم Vulkan. تأكد من تثبيت `mesa-vulkan-drivers` وأنك قمت بتصدير مسار `VK_ICD_FILENAMES` كما في أوامر التشغيل.
 
 - **مشكلة: شاشة سوداء أو FPS منخفض جداً**
-  هذا طبيعي على الأجهزة القديمة. قم بتقليل `--render-distance` إلى `2` أو `4`. 
+  هذا طبيعي على الأجهزة القديمة. قم بتقليل `--render-distance` إلى `2` أو `4`.
